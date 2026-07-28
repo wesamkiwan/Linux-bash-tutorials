@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 13/19 modules complete (68%)
+**Overall Progress:** 14/19 modules complete (74%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -17,7 +17,7 @@
 | 11 | Package Management & System Monitoring | 🟢/🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 12 | Networking Basics | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 13 | Terminal Productivity (tmux/dotfiles) | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
-| 14 | Error Handling, Traps & Debugging | 🔴 | 3h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 14 | Error Handling, Traps & Debugging | 🔴 | 3h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 15 | Automation & Scheduling (cron/systemd) | 🔴 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 16 | Production Scripting & Security Hardening | 🔴 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 17 | Performance Tuning & Profiling | 🔴 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
@@ -35,4 +35,4 @@
 - [ ] master-interview-prep.md
 - [ ] master-references.md
 
-👉 **You are here:** Module 11 — Package Management & System Monitoring
+👉 **You are here:** Module 15 — Automation & Scheduling
