@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 7/19 modules complete (37%)
+**Overall Progress:** 8/19 modules complete (42%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -12,7 +12,7 @@
 | 6 | Bash Scripting Fundamentals | 🟡 | 3h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 7 | Control Flow | 🟡 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 8 | Functions, Arrays & String Manipulation | 🟡 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
-| 9 | Text Processing Power Tools (sed/awk/regex) | 🔴 | 3.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 9 | Text Processing Power Tools (sed/awk/regex) | 🔴 | 3.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 10 | Process Management & Job Control | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 11 | Package Management & System Monitoring | 🟢/🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 12 | Networking Basics | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
