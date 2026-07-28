@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 17/19 modules complete (89%)
+**Overall Progress:** 18/19 modules complete (95%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -22,7 +22,7 @@
 | 16 | Production Scripting & Security Hardening | 🔴 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 17 | Performance Tuning & Profiling | 🔴 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 18 | Security Auditing Scripts | 🔴 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
-| 19 | Bash + Docker | 🔴 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 19 | Bash + Docker | 🔴 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 
 ## Capstone Projects
 - [ ] Capstone 1: Automated Backup & Log-Rotation Toolkit 🟡
