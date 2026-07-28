@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 18/19 modules complete (95%)
+**Overall Progress:** 19/19 modules complete (100%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -21,7 +21,7 @@
 | 15 | Automation & Scheduling (cron/systemd) | 🔴 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 16 | Production Scripting & Security Hardening | 🔴 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 17 | Performance Tuning & Profiling | 🔴 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
-| 18 | Security Auditing Scripts | 🔴 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 18 | Security Auditing Scripts | 🔴 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 19 | Bash + Docker | 🔴 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 
 ## Capstone Projects
@@ -35,4 +35,4 @@
 - [ ] master-interview-prep.md
 - [ ] master-references.md
 
-👉 **You are here:** Module 15 — Automation & Scheduling
+👉 **You are here:** All modules complete! Head to the Capstone Projects.
