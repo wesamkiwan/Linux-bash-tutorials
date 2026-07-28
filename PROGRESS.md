@@ -1,10 +1,10 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 0/19 modules complete (0%)
+**Overall Progress:** 1/19 modules complete (5%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
-| 1 | Linux & Shell Fundamentals | 🟢 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 1 | Linux & Shell Fundamentals | 🟢 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 2 | Filesystem Navigation & File Operations | 🟢 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 3 | Viewing & Finding Files | 🟢 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 4 | Permissions, Users & Ownership | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
@@ -35,4 +35,4 @@
 - [ ] master-interview-prep.md
 - [ ] master-references.md
 
-👉 **You are here:** Module 1 — Linux & Shell Fundamentals
+👉 **You are here:** Module 2 — Filesystem Navigation & File Operations
