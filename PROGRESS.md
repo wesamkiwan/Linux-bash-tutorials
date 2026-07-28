@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 5/19 modules complete (26%)
+**Overall Progress:** 6/19 modules complete (32%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -9,7 +9,7 @@
 | 3 | Viewing & Finding Files | 🟢 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 4 | Permissions, Users & Ownership | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 5 | I/O Redirection, Pipes & Filters | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
-| 6 | Bash Scripting Fundamentals | 🟡 | 3h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 6 | Bash Scripting Fundamentals | 🟡 | 3h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 7 | Control Flow | 🟡 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 8 | Functions, Arrays & String Manipulation | 🟡 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 9 | Text Processing Power Tools (sed/awk/regex) | 🔴 | 3.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
@@ -35,4 +35,4 @@
 - [ ] master-interview-prep.md
 - [ ] master-references.md
 
-👉 **You are here:** Module 4 — Permissions, Users & Ownership
+👉 **You are here:** Module 7 — Control Flow
