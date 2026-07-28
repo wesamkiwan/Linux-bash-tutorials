@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 11/19 modules complete (58%)
+**Overall Progress:** 12/19 modules complete (63%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -16,7 +16,7 @@
 | 10 | Process Management & Job Control | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 11 | Package Management & System Monitoring | 🟢/🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 12 | Networking Basics | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
-| 13 | Terminal Productivity (tmux/dotfiles) | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 13 | Terminal Productivity (tmux/dotfiles) | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 14 | Error Handling, Traps & Debugging | 🔴 | 3h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 15 | Automation & Scheduling (cron/systemd) | 🔴 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 16 | Production Scripting & Security Hardening | 🔴 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
