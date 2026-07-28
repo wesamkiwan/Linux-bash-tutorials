@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 3/19 modules complete (16%)
+**Overall Progress:** 4/19 modules complete (21%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -8,7 +8,7 @@
 | 2 | Filesystem Navigation & File Operations | 🟢 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 3 | Viewing & Finding Files | 🟢 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 4 | Permissions, Users & Ownership | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
-| 5 | I/O Redirection, Pipes & Filters | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 5 | I/O Redirection, Pipes & Filters | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 6 | Bash Scripting Fundamentals | 🟡 | 3h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 7 | Control Flow | 🟡 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 8 | Functions, Arrays & String Manipulation | 🟡 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
