@@ -1,12 +1,12 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 2/19 modules complete (11%)
+**Overall Progress:** 3/19 modules complete (16%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
 | 1 | Linux & Shell Fundamentals | 🟢 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 2 | Filesystem Navigation & File Operations | 🟢 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
-| 3 | Viewing & Finding Files | 🟢 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 3 | Viewing & Finding Files | 🟢 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 4 | Permissions, Users & Ownership | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 5 | I/O Redirection, Pipes & Filters | 🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 6 | Bash Scripting Fundamentals | 🟡 | 3h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
@@ -35,4 +35,4 @@
 - [ ] master-interview-prep.md
 - [ ] master-references.md
 
-👉 **You are here:** Module 3 — Viewing & Finding Files
+👉 **You are here:** Module 4 — Permissions, Users & Ownership
