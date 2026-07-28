@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 15/19 modules complete (79%)
+**Overall Progress:** 16/19 modules complete (84%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -19,7 +19,7 @@
 | 13 | Terminal Productivity (tmux/dotfiles) | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 14 | Error Handling, Traps & Debugging | 🔴 | 3h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 15 | Automation & Scheduling (cron/systemd) | 🔴 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
-| 16 | Production Scripting & Security Hardening | 🔴 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 16 | Production Scripting & Security Hardening | 🔴 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 17 | Performance Tuning & Profiling | 🔴 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 18 | Security Auditing Scripts | 🔴 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
 | 19 | Bash + Docker | 🔴 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
