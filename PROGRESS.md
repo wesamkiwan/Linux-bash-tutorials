@@ -1,6 +1,6 @@
 # Progress Tracker: Linux Bash — Zero to Hero
 
-**Overall Progress:** 9/19 modules complete (47%)
+**Overall Progress:** 10/19 modules complete (53%)
 
 | # | Module | Difficulty | Est. Time | Learning | Exercise | Cheat Sheet | Interview | References | Status |
 |---|--------|-----------|-----------|----------|----------|-------------|-----------|-----------|--------|
@@ -11,7 +11,7 @@
 | 5 | I/O Redirection, Pipes & Filters | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 6 | Bash Scripting Fundamentals | 🟡 | 3h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 7 | Control Flow | 🟡 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
-| 8 | Functions, Arrays & String Manipulation | 🟡 | 2.5h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
+| 8 | Functions, Arrays & String Manipulation | 🟡 | 2.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 9 | Text Processing Power Tools (sed/awk/regex) | 🔴 | 3.5h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 10 | Process Management & Job Control | 🟡 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 | 11 | Package Management & System Monitoring | 🟢/🟡 | 2h | [ ] | [ ] | [ ] | [ ] | [ ] | Not started |
@@ -35,4 +35,4 @@
 - [ ] master-interview-prep.md
 - [ ] master-references.md
 
-👉 **You are here:** Module 7 — Control Flow
+👉 **You are here:** Module 11 — Package Management & System Monitoring
