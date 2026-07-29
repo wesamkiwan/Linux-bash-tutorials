@@ -26,7 +26,7 @@
 
 ## Capstone Projects
 - [x] Capstone 1: Automated Backup & Log-Rotation Toolkit 🟡
-- [ ] Capstone 2: Server Monitoring & Alerting System 🔴
+- [x] Capstone 2: Server Monitoring & Alerting System 🔴
 - [ ] Capstone 3: Security Audit Automation Script 🔴
 - [ ] Capstone 4: Docker Deployment Pipeline Script 🔴
 
