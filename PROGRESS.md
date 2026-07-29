@@ -31,8 +31,8 @@
 - [x] Capstone 4: Docker Deployment Pipeline Script 🔴
 
 ## Master Files
-- [ ] master-cheatsheet.md
-- [ ] master-interview-prep.md
-- [ ] master-references.md
+- [x] master-cheatsheet.md
+- [x] master-interview-prep.md
+- [x] master-references.md
 
-👉 **You are here:** All modules complete! Head to the Capstone Projects.
+👉 **You are here:** 🎉 Course complete! All 19 modules, all 4 capstones, and all master reference files are done.
