@@ -25,7 +25,7 @@
 | 19 | Bash + Docker | 🔴 | 2h | [x] | [x] | [x] | [x] | [x] | Complete |
 
 ## Capstone Projects
-- [ ] Capstone 1: Automated Backup & Log-Rotation Toolkit 🟡
+- [x] Capstone 1: Automated Backup & Log-Rotation Toolkit 🟡
 - [ ] Capstone 2: Server Monitoring & Alerting System 🔴
 - [ ] Capstone 3: Security Audit Automation Script 🔴
 - [ ] Capstone 4: Docker Deployment Pipeline Script 🔴
