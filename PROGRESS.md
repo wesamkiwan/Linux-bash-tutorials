@@ -28,7 +28,7 @@
 - [x] Capstone 1: Automated Backup & Log-Rotation Toolkit 🟡
 - [x] Capstone 2: Server Monitoring & Alerting System 🔴
 - [x] Capstone 3: Security Audit Automation Script 🔴
-- [ ] Capstone 4: Docker Deployment Pipeline Script 🔴
+- [x] Capstone 4: Docker Deployment Pipeline Script 🔴
 
 ## Master Files
 - [ ] master-cheatsheet.md
