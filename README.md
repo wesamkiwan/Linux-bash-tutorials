@@ -8,7 +8,7 @@
 [![Shell](https://img.shields.io/badge/shell-bash%205.x-4EAA25.svg?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/platform-Ubuntu%20%2F%20Debian-E95420.svg?logo=ubuntu&logoColor=white)](#%EF%B8%8F-environment-setup)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/wesamkiwan/Linux-bash-tutorials/pulls)
-[![Made with Claude](https://img.shields.io/badge/made%20with-Claude%20Code-D97757.svg?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
+[![AI-Assisted](https://img.shields.io/badge/AI--assisted-Claude%20Code-D97757.svg?logo=anthropic&logoColor=white)](https://claude.com/claude-code)
 
 A complete, production-ready learning path for Linux command-line and Bash scripting — from your very first `ls` to writing hardened, production-grade automation scripts. Examples use **Ubuntu/Debian** (`apt`), with notes where other distros differ.
 
