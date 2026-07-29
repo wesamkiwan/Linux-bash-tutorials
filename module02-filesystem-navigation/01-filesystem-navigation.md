@@ -552,4 +552,4 @@ Explanation: I ran `ls -la ~/sandbox` right before deleting to confirm exactly w
 
 ## Next Step
 
-Continue to [Module 3: Viewing & Finding Files](../module3-viewing-finding-files/)
+Continue to [Module 3: Viewing & Finding Files](../module03-viewing-finding-files/)

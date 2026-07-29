@@ -559,4 +559,4 @@ Explanation: I wrote `> combined.log` **before** `2>&1`, so stdout was redirecte
 
 ## Next Step
 
-Continue to [Module 6: Bash Scripting Fundamentals](../module6-scripting-fundamentals/)
+Continue to [Module 6: Bash Scripting Fundamentals](../module06-scripting-fundamentals/)

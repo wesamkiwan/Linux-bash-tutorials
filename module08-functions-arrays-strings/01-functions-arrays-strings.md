@@ -836,4 +836,4 @@ Explanation: `validate_input` only ever needs to answer "is this usable or not,"
 
 ## Next Step
 
-Continue to [Module 9: Text Processing Power Tools (sed/awk/regex)](../module9-sed-awk-regex/)
+Continue to [Module 9: Text Processing Power Tools (sed/awk/regex)](../module09-sed-awk-regex/)

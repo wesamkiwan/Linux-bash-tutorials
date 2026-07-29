@@ -782,4 +782,4 @@ Explanation: I used an **array** (`servers=(...)`, a preview of Module 8) with `
 
 ## Next Step
 
-Continue to [Module 8: Functions, Arrays & String Manipulation](../module8-functions-arrays-strings/)
+Continue to [Module 8: Functions, Arrays & String Manipulation](../module08-functions-arrays-strings/)

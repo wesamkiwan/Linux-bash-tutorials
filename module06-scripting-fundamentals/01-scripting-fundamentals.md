@@ -860,4 +860,4 @@ Explanation: I guarded against zero arguments first, before doing anything else,
 
 ## Next Step
 
-Continue to [Module 7: Control Flow](../module7-control-flow/)
+Continue to [Module 7: Control Flow](../module07-control-flow/)

@@ -697,4 +697,4 @@ Explanation: `secrets.txt` ended up at `600` (owner-only, no group/others access
 
 ## Next Step
 
-Continue to [Module 5: I/O Redirection, Pipes & Filters](../module5-io-redirection-pipes/)
+Continue to [Module 5: I/O Redirection, Pipes & Filters](../module05-io-redirection-pipes/)

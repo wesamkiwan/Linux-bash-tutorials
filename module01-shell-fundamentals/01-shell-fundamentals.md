@@ -444,4 +444,4 @@ learning bash
 
 ## Next Step
 
-Continue to [Module 2: Filesystem Navigation & File Operations](../module2-filesystem-navigation/)
+Continue to [Module 2: Filesystem Navigation & File Operations](../module02-filesystem-navigation/)

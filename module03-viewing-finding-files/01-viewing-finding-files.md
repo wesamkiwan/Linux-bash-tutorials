@@ -684,4 +684,4 @@ Explanation: I used `head`/`tail` to sample the edges of the file, `wc -l` to ge
 
 ## Next Step
 
-Continue to [Module 4: Permissions, Users & Ownership](../module4-permissions-users/)
+Continue to [Module 4: Permissions, Users & Ownership](../module04-permissions-users/)

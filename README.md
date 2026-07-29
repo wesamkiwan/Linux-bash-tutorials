@@ -45,15 +45,15 @@ bash --version  # should print GNU bash, version 5.x or later
 
 | # | Module | Difficulty | Est. Time |
 |---|--------|-----------|-----------|
-| 1 | [Linux & Shell Fundamentals](module1-shell-fundamentals/) | 🟢 | 2h |
-| 2 | [Filesystem Navigation & File Operations](module2-filesystem-navigation/) | 🟢 | 2.5h |
-| 3 | [Viewing & Finding Files](module3-viewing-finding-files/) | 🟢 | 2h |
-| 4 | [Permissions, Users & Ownership](module4-permissions-users/) | 🟡 | 2h |
-| 5 | [I/O Redirection, Pipes & Filters](module5-io-redirection-pipes/) | 🟡 | 2h |
-| 6 | [Bash Scripting Fundamentals](module6-scripting-fundamentals/) | 🟡 | 3h |
-| 7 | [Control Flow](module7-control-flow/) | 🟡 | 2.5h |
-| 8 | [Functions, Arrays & String Manipulation](module8-functions-arrays-strings/) | 🟡 | 2.5h |
-| 9 | [Text Processing Power Tools (sed/awk/regex)](module9-sed-awk-regex/) | 🔴 | 3.5h |
+| 1 | [Linux & Shell Fundamentals](module01-shell-fundamentals/) | 🟢 | 2h |
+| 2 | [Filesystem Navigation & File Operations](module02-filesystem-navigation/) | 🟢 | 2.5h |
+| 3 | [Viewing & Finding Files](module03-viewing-finding-files/) | 🟢 | 2h |
+| 4 | [Permissions, Users & Ownership](module04-permissions-users/) | 🟡 | 2h |
+| 5 | [I/O Redirection, Pipes & Filters](module05-io-redirection-pipes/) | 🟡 | 2h |
+| 6 | [Bash Scripting Fundamentals](module06-scripting-fundamentals/) | 🟡 | 3h |
+| 7 | [Control Flow](module07-control-flow/) | 🟡 | 2.5h |
+| 8 | [Functions, Arrays & String Manipulation](module08-functions-arrays-strings/) | 🟡 | 2.5h |
+| 9 | [Text Processing Power Tools (sed/awk/regex)](module09-sed-awk-regex/) | 🔴 | 3.5h |
 | 10 | [Process Management & Job Control](module10-process-management/) | 🟡 | 2h |
 | 11 | [Package Management & System Monitoring](module11-package-mgmt-monitoring/) | 🟢/🟡 | 2h |
 | 12 | [Networking Basics](module12-networking-basics/) | 🟡 | 2h |
@@ -94,4 +94,4 @@ Open **[PROGRESS.md](PROGRESS.md)** and keep it updated as you go. It has a chec
 5. Read the module's interview prep, out loud if possible
 6. Tick the module's boxes in `PROGRESS.md`, move to the next module
 
-Good luck — see you in [Module 1](module1-shell-fundamentals/).
+Good luck — see you in [Module 1](module01-shell-fundamentals/).
